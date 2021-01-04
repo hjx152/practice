@@ -70,6 +70,9 @@ int main(int argc, const char * argv[]) {
     [s1 run];
     [s1 eat];
     
+    
+    
+    
 //    Person *p1 = [Person new];
 //    p1->_name = @"tom";
 //    p1->_age = 19;
